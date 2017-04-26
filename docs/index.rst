@@ -10,6 +10,7 @@ Welcome to rtd-test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   yaml
 
 
 Indices and tables
